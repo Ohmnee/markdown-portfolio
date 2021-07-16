@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* :heart: HTML
+* :+1:  CSS
+* :smile: JavaScript
+* :sparkles:  C#
+* :tada:  Python
